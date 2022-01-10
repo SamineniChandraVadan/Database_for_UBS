@@ -2,9 +2,8 @@
 <ins> </ins>
 
 # Table of contents : 
-# Table of Contents
 - [Overview](#Overview of University Book Store)
-- [Business Problems](#Business Problems)
+- [Business Problems](#Business_Problems)
 - [Database Analysis from business point of view](#Database Analysis from business point of view)
    -[1. Customer Information](#Customer Information)
    -[2. Promotion Data](#Promotion Data)
@@ -19,7 +18,7 @@
 
 Unlike a conventional bookstore, the University Book store offers non-book items as well. In fact, the bulk of their inventory is comprised of logo merchandise, spirit wear, and other non-book items. They have two stores in Lafayette and an online channel as well. Besides this, they also rent out books and have a separate stock of books for the same. Unlike the name, it is more like a retail business.
 
-# `Business Problems`
+# Business_Problems
 
 * With Amazon and other online giants offering books and similar products at competitive prices, super deals, and services such as free, fast shipping, UBS is facing major threat as it is losing out on a section of potential customer segment.
 * UBS has a peak season while the sale remains stagnant for the rest of the year. It is important for UBS to be a destination for students at times other than the beginning of their course. Getting more traffic and potential sales round the year is another look ahead for them.
